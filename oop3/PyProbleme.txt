@@ -1,0 +1,7 @@
+1. Control teste 
+2. strategie de teste prio 1 / 2 / 3 
+3. Traceability 
+4. parte manuala 
+
+
+https://eokulik.com/build-test-suite-with-pytest/
